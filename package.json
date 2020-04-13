@@ -1,0 +1,29 @@
+{
+  "name": "mern-and-leaflet-server",
+  "version": "1.0.0",
+  "description": "server api",
+  "author": "hhamid35 <32471959+hhamid35@users.noreply.github.com>",
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "mern-and-leaflet-server"
+  },
+  "scripts": {
+    "start": "./bin/app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-errors": "^1.7.3",
+    "pino": "^6.2.0",
+    "pino-http": "^5.0.0",
+    "pino-pretty": "^4.0.0",
+    "pug": "^2.0.4"
+  }
+}
