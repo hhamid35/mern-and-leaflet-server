@@ -19,7 +19,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "http-errors": "^1.7.3",
     "pino": "^6.2.0",
     "pino-http": "^5.0.0",
